@@ -1,3 +1,5 @@
 *#
 *.tmp
 t/
+env/
+rusty/
